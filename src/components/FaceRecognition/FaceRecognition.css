@@ -1,0 +1,13 @@
+.faceRecog{
+  width: 50%;
+  height: auto;
+  margin: 2em;
+}
+
+.bounding_box{
+  position: absolute;
+  box-shadow: 0 0 0 3px #149df2 inset;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
