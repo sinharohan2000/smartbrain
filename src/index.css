@@ -5,15 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #F4D03F;
-  background-image: linear-gradient( 135deg, #F05F57 10%, #360940 100%);
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-
-button{
-  cursor: pointer;
+  height: 100vh;
+  font-weight: 100;
+  background: radial-gradient(#a23982,#1f1013);
 }
